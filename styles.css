@@ -1,0 +1,70 @@
+
+a{
+    color: white;
+
+    background-color: green;
+    
+}
+h1{
+    text-align: center;
+    background-color: green; 
+    color: aliceblue;
+}
+ .pares{
+    text-align: center;
+    background-color: green;
+    color: aliceblue;
+ }
+ h3{
+    color: darkgreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-bottom: 2px #000000 solid;
+ }
+
+p{
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.dente{
+    border-bottom: 2px black solid;
+}
+.odonto{
+    border-bottom: 2px black solid;
+}
+.cp{
+    background-color: forestgreen;
+    color: aliceblue;
+}
+.jp{
+    color: forestgreen;
+    text-align: center;
+    border-bottom: 2px black solid;
+}
+.ma{
+    color: forestgreen;
+    text-align: center;
+    border-bottom: 2px black solid;
+}
+.pl{
+    text-align: center;
+    color: forestgreen;
+    border-bottom: 2px black solid ;
+
+}
+.cli{
+      color: aliceblue;
+      background-color: forestgreen;
+}
+.ctt{
+    color: forestgreen;
+    border-bottom: 2px black solid;
+}
+.aaaa{
+    color: forestgreen;
+    border-bottom: 2px black solid;
+}
+.loc{
+    text-align: center;
+    background-color: darkgreen;
+    color: aliceblue;
+}
